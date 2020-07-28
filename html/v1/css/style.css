@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Caesar+Dressing);
+
+body{
+   font-family: 'Caesar Dressing',serif;
+	background-color: #dddddd;
+}
+      
+.map {
+	width:1200px;
+	height: 800px;
+	}
+
+.info {
+	position: absolute; 
+	font-family: Ubuntu; 
+	font-size: 20px; 
+	font-style: normal; 
+	top: 60px;
+	left: 900px;
+	z-index: 30;
+	width:300px;
+}
+
+.ol-titol {
+	position: fixed;
+	padding: 15px;
+	top: 10px;
+	left: 50px;
+	min-width: 240px;
+	z-index: 10;
+	font-size: 28px;
+	font-weight: bold; 
+}
+
+.enllac_llista {
+	font-size: 12px;
+}
+
+.enllac_llista a{
+	text-decoration: none;
+}
+
+.ol-popup {
+	visibility: hidden;
+	position: fixed;
+	background-color: white;
+	-webkit-filter: drop-shadow(0 1px 4px rgba(0,0,0,0.2));
+	filter: drop-shadow(0 1px 4px rgba(0,0,0,0.2));
+	padding: 15px;
+	border-radius: 10px;
+	border: 1px solid #cccccc;
+	top: 60px;
+	left: 50px;
+	min-width: 240px;
+	z-index: 10;
+}
+
+.ol-popup a {
+	text-decoration: none;
+}
+
+span.enllac_llista {
+	font-size: 12px;
+}
+
+span.enllac_llista a{
+	text-decoration: none;
+}

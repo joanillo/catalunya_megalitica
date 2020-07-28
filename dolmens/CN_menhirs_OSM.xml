@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.1011 6c2efc30">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2020-02-20T08:34:03Z" areas="2020-02-20T06:39:02Z"/>
+
+  <node id="6791507906" lat="42.4772682" lon="2.0708799">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Menhir du Pla del Bosc (del Port)"/>
+  </node>
+  <area id="3600409749">
+    <tag k="addr:postcode" v="66800"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Eyne"/>
+    <tag k="name:ca" v="Eina"/>
+    <tag k="name:fr" v="Eyne"/>
+    <tag k="population" v="130"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66075"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q290830"/>
+    <tag k="wikipedia" v="fr:Eyne"/>
+  </area>
+  <node id="6791495964" lat="42.6356010" lon="2.4213901">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Menhir de Catllar"/>
+  </node>
+  <area id="3602820610">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Catllar"/>
+    <tag k="population" v="771"/>
+    <tag k="ref:INSEE" v="66045"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q197689"/>
+    <tag k="wikipedia" v="fr:Catllar"/>
+  </area>
+  <node id="6906625023" lat="42.7485030" lon="2.4600206">
+    <tag k="name" v="Menhir des Fumades"/>
+    <tag k="natural" v="stone"/>
+  </node>
+  <area id="3602816624">
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Prats-de-Sournia"/>
+    <tag k="name:oc" v="Prats de Sornian"/>
+    <tag k="population" v="78"/>
+    <tag k="ref:INSEE" v="66151"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1377408"/>
+    <tag k="wikipedia" v="fr:Prats-de-Sournia"/>
+  </area>
+  <node id="6354805165" lat="42.4090711" lon="2.6959630">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Menhir de la Dona Morta"/>
+  </node>
+  <area id="3600022588">
+    <tag k="addr:postcode" v="66110"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Amélie-les-Bains-Palalda"/>
+    <tag k="name:ca" v="Els banys d'Arles"/>
+    <tag k="population" v="3460"/>
+    <tag k="ref:INSEE" v="66003"/>
+    <tag k="source:addr:postcode" v="source of postcode is from osm nodes"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q7152"/>
+    <tag k="wikipedia" v="fr:Amélie-les-Bains-Palalda"/>
+  </area>
+  <node id="6791501104" lat="42.5449982" lon="2.6961100">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Menhir du Roc del Ram"/>
+  </node>
+  <area id="3600054467">
+    <tag k="addr:postcode" v="66400"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Oms"/>
+    <tag k="name:ca" v="Oms"/>
+    <tag k="name:fr" v="Oms"/>
+    <tag k="name:oc" v="Oms"/>
+    <tag k="population" v="333"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66126"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q7158"/>
+    <tag k="wikipedia" v="fr:Oms (Pyrénées-Orientales)"/>
+  </area>
+  <node id="6791479655" lat="42.5321693" lon="2.9298401">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Menhir de Laroque-des-Albères"/>
+  </node>
+  <area id="3600018475">
+    <tag k="addr:postcode" v="66740"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Laroque-des-Albères"/>
+    <tag k="name:ca" v="La Roca d’Alberes"/>
+    <tag k="name:oc" v="La Roca d'Albera"/>
+    <tag k="population" v="2112"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66093"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q8895"/>
+    <tag k="wikipedia" v="fr:Laroque-des-Albères"/>
+  </area>
+  <node id="6791491713" lat="42.7276192" lon="2.6572499">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Menhir dit la Peyre Drète"/>
+  </node>
+  <area id="3601239462">
+    <tag k="addr:postcode" v="66720"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Bélesta"/>
+    <tag k="name:oc" v="Belhestar de la Frontièra"/>
+    <tag k="population" v="221"/>
+    <tag k="ref:INSEE" v="66019"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1110211"/>
+    <tag k="wikipedia" v="fr:Bélesta (Pyrénées-Orientales)"/>
+  </area>
+  <node id="6791469750" lat="42.4418297" lon="3.1352201">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Menhir de San Salvador"/>
+  </node>
+  <area id="3600018375">
+    <tag k="addr:postcode" v="66290"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Cerbère"/>
+    <tag k="name:ca" v="Cervera de la Marenda"/>
+    <tag k="name:fr" v="Cerbère"/>
+    <tag k="population" v="1355"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66048"/>
+    <tag k="source" v="Cadastre 25-06-2008"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q6667"/>
+    <tag k="wikipedia" v="fr:Cerbère (Pyrénées-Orientales)"/>
+  </area>
+  <node id="2461499540" lat="42.4559115" lon="3.1589628">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Menhir Peyra Ficta"/>
+  </node>
+  <area id="3600018375">
+    <tag k="addr:postcode" v="66290"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Cerbère"/>
+    <tag k="name:ca" v="Cervera de la Marenda"/>
+    <tag k="name:fr" v="Cerbère"/>
+    <tag k="population" v="1355"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66048"/>
+    <tag k="source" v="Cadastre 25-06-2008"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q6667"/>
+    <tag k="wikipedia" v="fr:Cerbère (Pyrénées-Orientales)"/>
+  </area>
+</osm>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.1011 6c2efc30">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2020-02-19T17:19:02Z" areas="2020-02-19T14:11:02Z"/>
+
+  <node id="330629979" lat="42.4813065" lon="1.9051542">
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="mhs"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="mhs:inscription_date" v="1976-06-22"/>
+    <tag k="name" v="Dolmen de Brangolí"/>
+    <tag k="ref:mhs" v="PA00104017"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source:heritage" v="data.gouv.fr:Ministère de la Culture - 04/2015"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wikidata" v="Q18380189"/>
+    <tag k="wikipedia" v="fr:Dolmen de Brangolí"/>
+  </node>
+  <area id="3600074308">
+    <tag k="addr:postcode" v="66760"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Enveitg"/>
+    <tag k="name:ca" v="Enveig"/>
+    <tag k="name:fr" v="Enveitg"/>
+    <tag k="population" v="641"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66066"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q752263"/>
+    <tag k="wikipedia" v="fr:Enveitg"/>
+  </area>
+  <node id="5932624680" lat="42.4772581" lon="2.0709083">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="menhir"/>
+    <tag k="name" v="menhir de la bassouse"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <area id="3600409749">
+    <tag k="addr:postcode" v="66800"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Eyne"/>
+    <tag k="name:ca" v="Eina"/>
+    <tag k="name:fr" v="Eyne"/>
+    <tag k="population" v="130"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66075"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q290830"/>
+    <tag k="wikipedia" v="fr:Eyne"/>
+  </area>
+  <node id="5932624681" lat="42.4811689" lon="2.0794775">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <area id="3600409749">
+    <tag k="addr:postcode" v="66800"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Eyne"/>
+    <tag k="name:ca" v="Eina"/>
+    <tag k="name:fr" v="Eyne"/>
+    <tag k="population" v="130"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66075"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q290830"/>
+    <tag k="wikipedia" v="fr:Eyne"/>
+  </area>
+  <node id="5932624679" lat="42.4854050" lon="2.0741718">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="dolmen des pascarets"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q11917570"/>
+  </node>
+  <area id="3600409749">
+    <tag k="addr:postcode" v="66800"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Eyne"/>
+    <tag k="name:ca" v="Eina"/>
+    <tag k="name:fr" v="Eyne"/>
+    <tag k="population" v="130"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66075"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q290830"/>
+    <tag k="wikipedia" v="fr:Eyne"/>
+  </area>
+  <node id="1735338144" lat="42.7294677" lon="2.2237590">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="menhir"/>
+    <tag k="name" v="Menhir de Counozouls"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q22691590"/>
+  </node>
+  <area id="3602615671">
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Counozouls"/>
+    <tag k="name:oc" v="Conòsols"/>
+    <tag k="population" v="48"/>
+    <tag k="postal_code" v="11140"/>
+    <tag k="ref:FR:SIREN" v="211101043"/>
+    <tag k="ref:INSEE" v="11104"/>
+    <tag k="source:name:oc" v="DBpédia FR"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="source:postal_code" v="La Poste - 12/2014"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q204292"/>
+    <tag k="wikipedia" v="fr:Counozouls"/>
+  </area>
+  <node id="6506458830" lat="42.6789226" lon="2.4095678">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Col de Tribes"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <area id="3602820388">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Eus"/>
+    <tag k="population" v="388"/>
+    <tag k="ref:INSEE" v="66074"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q919415"/>
+    <tag k="wikipedia" v="fr:Eus"/>
+  </area>
+  <node id="5428454128" lat="42.6726455" lon="2.5108495">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <area id="3602816871">
+    <tag k="addr:postcode" v="66320"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Tarerach"/>
+    <tag k="population" v="46"/>
+    <tag k="ref:INSEE" v="66201"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1350733"/>
+    <tag k="wikipedia" v="fr:Tarerach"/>
+  </area>
+  <node id="5448416990" lat="42.7625846" lon="2.4967664">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Cauna del Moro"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <area id="3602816521">
+    <tag k="addr:postcode" v="66730"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Felluns"/>
+    <tag k="name:oc" v="Felhuns"/>
+    <tag k="population" v="70"/>
+    <tag k="ref:INSEE" v="66076"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1445576"/>
+    <tag k="wikipedia" v="fr:Felluns"/>
+  </area>
+  <node id="4491993069" lat="42.4809614" lon="2.6008716">
+    <tag k="heritage" v="2"/>
+    <tag k="heritage:operator" v="mhs"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="mhs:inscription_date" v="1889"/>
+    <tag k="name" v="Caixa de Rotllan"/>
+    <tag k="ref:mhs" v="PA00103962"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source:heritage" v="data.gouv.fr, Ministère de la Culture - 2016"/>
+    <tag k="wikidata" v="Q2933393"/>
+    <tag k="wikipedia" v="fr:Caixa de Rotllan"/>
+  </node>
+  <area id="3602924277">
+    <tag k="addr:postcode" v="66150"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Arles-sur-Tech"/>
+    <tag k="name:el" v="Αρλ-συρ-Τεκ"/>
+    <tag k="population" v="2705"/>
+    <tag k="ref:INSEE" v="66009"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q7897"/>
+    <tag k="wikipedia" v="fr:Arles-sur-Tech"/>
+  </area>
+  <node id="6731391217" lat="42.4866167" lon="2.5552924">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <area id="3602918996">
+    <tag k="addr:postcode" v="66150"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Corsavy"/>
+    <tag k="population" v="218"/>
+    <tag k="ref:INSEE" v="66060"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q7154"/>
+    <tag k="wikipedia" v="fr:Corsavy"/>
+  </area>
+  <node id="5151939756" lat="42.4908826" lon="2.5674287">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="historic:civilization" v="prehistoric"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <area id="3602918996">
+    <tag k="addr:postcode" v="66150"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Corsavy"/>
+    <tag k="population" v="218"/>
+    <tag k="ref:INSEE" v="66060"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q7154"/>
+    <tag k="wikipedia" v="fr:Corsavy"/>
+  </area>
+  <node id="1657298078" lat="42.4631712" lon="2.7914984">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Siuréda"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <area id="3600392304">
+    <tag k="addr:postcode" v="66480"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Maureillas-las-Illas"/>
+    <tag k="name:ca" v="Morellàs i les Illes"/>
+    <tag k="name:fr" v="Maureillas-las-Illas"/>
+    <tag k="name:oc" v="Morellàs i les Illes"/>
+    <tag k="population" v="2544"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:FR:SIREN" v="216601062"/>
+    <tag k="ref:INSEE" v="66106"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q7972"/>
+    <tag k="wikipedia" v="fr:Maureillas-las-Illas"/>
+  </area>
+  <node id="3178007677" lat="42.5322125" lon="2.9299764">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="menhir"/>
+    <tag k="name" v="Menhir de Laroque-des-Albères"/>
+    <tag k="ref:t4t35.fr" v="MHLARO"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="GPS"/>
+  </node>
+  <area id="3600018475">
+    <tag k="addr:postcode" v="66740"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Laroque-des-Albères"/>
+    <tag k="name:ca" v="La Roca d’Alberes"/>
+    <tag k="name:oc" v="La Roca d'Albera"/>
+    <tag k="population" v="2112"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66093"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q8895"/>
+    <tag k="wikipedia" v="fr:Laroque-des-Albères"/>
+  </area>
+  <node id="5331385643" lat="42.6621263" lon="2.5489344">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Guardiola"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <area id="3601919494">
+    <tag k="addr:postcode" v="66320"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Rodès"/>
+    <tag k="name:ca" v="Rodés"/>
+    <tag k="population" v="619"/>
+    <tag k="ref:INSEE" v="66165"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q199706"/>
+    <tag k="wikipedia" v="fr:Rodès"/>
+  </area>
+  <node id="5331411314" lat="42.6792976" lon="2.5364480">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Serrat Blanc"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <area id="3601919494">
+    <tag k="addr:postcode" v="66320"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Rodès"/>
+    <tag k="name:ca" v="Rodés"/>
+    <tag k="population" v="619"/>
+    <tag k="ref:INSEE" v="66165"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q199706"/>
+    <tag k="wikipedia" v="fr:Rodès"/>
+  </area>
+  <node id="5428470727" lat="42.7264881" lon="2.6058189">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <area id="3601239462">
+    <tag k="addr:postcode" v="66720"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Bélesta"/>
+    <tag k="name:oc" v="Belhestar de la Frontièra"/>
+    <tag k="population" v="221"/>
+    <tag k="ref:INSEE" v="66019"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1110211"/>
+    <tag k="wikipedia" v="fr:Bélesta (Pyrénées-Orientales)"/>
+  </area>
+  <node id="3179816572" lat="42.4605962" lon="3.0547654">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Cova dels Alarbs"/>
+    <tag k="ref:t4t35.fr" v="DLCOV0"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q3001820"/>
+    <tag k="wikipedia" v="ca:Cova de l'Alarb"/>
+  </node>
+  <area id="3600018391">
+    <tag k="addr:postcode" v="66650"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Banyuls-sur-Mer"/>
+    <tag k="name:ca" v="Banyuls de la Marenda"/>
+    <tag k="name:fr" v="Banyuls-sur-Mer"/>
+    <tag k="population" v="4761"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:FR:SIREN" v="216600163"/>
+    <tag k="ref:INSEE" v="66016"/>
+    <tag k="source" v="Cadastre 25-06-2008"/>
+    <tag k="source:addr:postcode" v="source of postcode is from osm nodes"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q6753"/>
+    <tag k="wikipedia" v="fr:Banyuls-sur-Mer"/>
+  </area>
+  <node id="3179816574" lat="42.4418030" lon="3.1352404">
+    <tag k="fixme" v="position précise à vérifier sur place"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="menhir"/>
+    <tag k="name" v="Menhir de San Salvador"/>
+    <tag k="ref:t4t35.fr" v="MHPEDR"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <area id="3600018375">
+    <tag k="addr:postcode" v="66290"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Cerbère"/>
+    <tag k="name:ca" v="Cervera de la Marenda"/>
+    <tag k="name:fr" v="Cerbère"/>
+    <tag k="population" v="1355"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66048"/>
+    <tag k="source" v="Cadastre 25-06-2008"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q6667"/>
+    <tag k="wikipedia" v="fr:Cerbère (Pyrénées-Orientales)"/>
+  </area>
+  <node id="3179816573" lat="42.4583560" lon="3.1364097">
+    <tag k="fixme" v="position précise à vérifier sur place"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen du Col de la Creu"/>
+    <tag k="ref:megalithic.co.uk" v="9665"/>
+    <tag k="ref:t4t35.fr" v="DLCOL6"/>
+    <tag k="ruins" v="yes"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <area id="3600018391">
+    <tag k="addr:postcode" v="66650"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Banyuls-sur-Mer"/>
+    <tag k="name:ca" v="Banyuls de la Marenda"/>
+    <tag k="name:fr" v="Banyuls-sur-Mer"/>
+    <tag k="population" v="4761"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:FR:SIREN" v="216600163"/>
+    <tag k="ref:INSEE" v="66016"/>
+    <tag k="source" v="Cadastre 25-06-2008"/>
+    <tag k="source:addr:postcode" v="source of postcode is from osm nodes"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q6753"/>
+    <tag k="wikipedia" v="fr:Banyuls-sur-Mer"/>
+  </area>
+  <node id="972815821" lat="42.5009398" lon="2.9394408">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Balma del Moro"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q2881447"/>
+  </node>
+  <area id="3600018475">
+    <tag k="addr:postcode" v="66740"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Laroque-des-Albères"/>
+    <tag k="name:ca" v="La Roca d’Alberes"/>
+    <tag k="name:oc" v="La Roca d'Albera"/>
+    <tag k="population" v="2112"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66093"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q8895"/>
+    <tag k="wikipedia" v="fr:Laroque-des-Albères"/>
+  </area>
+  <node id="3179796268" lat="42.5042809" lon="3.0573676">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Rimbau"/>
+    <tag k="ref:t4t35.fr" v="DLRIMB"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="website" v="http://tourneur-sur-bois.pagesperso-orange.fr/dolmenduroussillon/Rimbau.htm"/>
+  </node>
+  <area id="3600018409">
+    <tag k="addr:postcode" v="66190"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Collioure"/>
+    <tag k="name:ca" v="Cotlliure"/>
+    <tag k="name:fr" v="Collioure"/>
+    <tag k="name:oc" v="Cotlliure"/>
+    <tag k="population" v="2427"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:FR:SIREN" v="216600536"/>
+    <tag k="ref:INSEE" v="66053"/>
+    <tag k="source:addr:postcode" v="source of postcode is from osm nodes"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q254829"/>
+    <tag k="wikipedia" v="fr:Collioure"/>
+  </area>
+</osm>

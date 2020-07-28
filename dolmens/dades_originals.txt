@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.1011 6c2efc30">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2020-02-15T17:28:01Z" areas="2020-02-15T13:35:02Z"/>
+
+  <node id="427870821" lat="42.2642006" lon="3.2127323" version="2" timestamp="2011-10-27T11:10:42Z" changeset="9667372" uid="428521" user="janes">
+    <tag k="alt_name" v="Megàlit del Coll de Fitor"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="la Tomba del General"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="447704400" lat="42.3297649" lon="3.1338031" version="4" timestamp="2018-10-20T20:00:34Z" changeset="63713096" uid="6389" user="Jesús Gómez">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="passage_grave"/>
+    <tag k="name" v="Dolmen de les Vinyes Mortes I"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="survey"/>
+    <tag k="wikidata" v="Q56187844"/>
+  </node>
+  <node id="447704401" lat="42.3290536" lon="3.1339700" version="4" timestamp="2018-10-20T20:00:34Z" changeset="63713096" uid="6389" user="Jesús Gómez">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="passage_grave"/>
+    <tag k="name" v="Dolmen de les Vinyes Mortes II"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="survey"/>
+    <tag k="wikidata" v="Q56190764"/>
+  </node>
+  <node id="447704411" lat="42.3294883" lon="3.1370890" version="3" timestamp="2015-06-13T11:12:18Z" changeset="31941389" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Puig Margall"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="447704424" lat="42.3187269" lon="3.1483683" version="3" timestamp="2019-10-04T16:14:42Z" changeset="75295104" uid="3859465" user="Toni Serra">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="passage_grave"/>
+    <tag k="name" v="Muntanya d´en Caselles"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="447704434" lat="42.2646677" lon="3.1896892" version="2" timestamp="2015-06-13T11:12:18Z" changeset="31941389" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Cap de l´Home"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="survey and thomas witzke - http://tw.strahlen.org/"/>
+  </node>
+  <node id="447704438" lat="42.2643148" lon="3.1905570" version="3" timestamp="2015-06-13T11:12:18Z" changeset="31941389" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Llit de Generala"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="survey and thomas witzke - http://tw.strahlen.org/"/>
+  </node>
+  <node id="447704447" lat="42.2617710" lon="3.1954319" version="3" timestamp="2015-06-13T11:12:18Z" changeset="31941389" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="menhir"/>
+    <tag k="name" v="Menhir de Casa Cremada 2"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="survey and thomas witzke - http://tw.strahlen.org/"/>
+  </node>
+  <node id="447704455" lat="42.2570121" lon="3.1971456" version="4" timestamp="2018-10-20T19:56:06Z" changeset="63713096" uid="6389" user="Jesús Gómez">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Creu d'en Cobertella"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="survey and thomas witzke - http://tw.strahlen.org/"/>
+    <tag k="wikidata" v="Q3034067"/>
+  </node>
+  <node id="469134110" lat="42.4112889" lon="2.8936666" version="2" timestamp="2018-11-26T01:11:00Z" changeset="64880761" uid="126203" user="Jose Luis Infante">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Canadal"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="469135629" lat="42.4002551" lon="2.9144033" version="3" timestamp="2018-11-26T01:11:00Z" changeset="64880761" uid="126203" user="Jose Luis Infante">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de mas Baleta II"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="469135841" lat="42.4012375" lon="2.9149698" version="2" timestamp="2018-11-26T01:11:00Z" changeset="64880761" uid="126203" user="Jose Luis Infante">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de mas Baleta I"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="852740579" lat="41.6516993" lon="2.4351347" version="2" timestamp="2017-04-04T21:40:54Z" changeset="47457052" uid="4223901" user="javitodepinypon">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la Pedra Arca"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1229066688" lat="41.6518454" lon="2.4868748" version="4" timestamp="2017-09-25T03:23:41Z" changeset="52343145" uid="339581" user="nyuriks">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="Dolmen de Pedra Gentil"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q4894571"/>
+    <tag k="wikipedia" v="es:Dolmen de Vallgorguina"/>
+  </node>
+  <node id="1250967645" lat="41.6274357" lon="2.1156119" version="2" timestamp="2019-01-05T23:10:46Z" changeset="66059501" uid="9330563" user="farresx">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="Dòlmen de Serra Cavallera"/>
+    <tag k="name:ca" v="Dolmen de Serra Cavallera"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1265973336" lat="41.5805966" lon="2.1799847" version="1" timestamp="2011-04-29T22:55:56Z" changeset="8007597" uid="55987" user="Jaume Figueras">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="menhir"/>
+    <tag k="name" v="Menhir de Pedra Llarga o de la Pedra del Diable"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1268731260" lat="41.5650412" lon="2.3181109" version="2" timestamp="2018-10-24T09:55:07Z" changeset="63825592" uid="6389" user="Jesús Gómez">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="Dolmen de Can Gol II"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q21402395"/>
+  </node>
+  <node id="1268731291" lat="41.5635885" lon="2.3139426" version="1" timestamp="2011-05-01T12:15:28Z" changeset="8020502" uid="55987" user="Jaume Figueras">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="Dolmen de Can Gol I"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1268731463" lat="41.5688439" lon="2.3309427" version="2" timestamp="2016-12-01T17:13:08Z" changeset="44091459" uid="2047207" user="ramonz">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Pedra del Rei o del Molí"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1268731829" lat="41.5635701" lon="2.3178879" version="1" timestamp="2011-05-01T12:15:43Z" changeset="8020502" uid="55987" user="Jaume Figueras">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="burial_stone"/>
+    <tag k="name" v="Pedra Foradada"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1314557637" lat="41.5131305" lon="2.2669575" version="4" timestamp="2018-10-24T09:55:07Z" changeset="63825592" uid="6389" user="Jesús Gómez">
+    <tag k="dolmen" v="yes"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Castellruf"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q21402399"/>
+  </node>
+  <node id="1368742373" lat="42.4271260" lon="2.8520309" version="1" timestamp="2011-07-21T08:17:53Z" changeset="8786010" uid="81894" user="wergeis">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1368793909" lat="42.3327360" lon="3.1839802" version="2" timestamp="2015-06-13T08:34:45Z" changeset="31938772" uid="692602" user="Kanenas">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="Mores Altes II"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1426390194" lat="41.9780813" lon="2.6048269" version="3" timestamp="2013-09-16T15:06:40Z" changeset="17869760" uid="1072240" user="cmif4">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="Dolmen de Coll de Gria"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1462533625" lat="42.2609331" lon="3.2033704" version="2" timestamp="2015-06-13T11:12:18Z" changeset="31941389" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Cova-Dolmen del Rec de la Quarentena"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1462533626" lat="42.2604581" lon="3.2033825" version="3" timestamp="2015-06-13T11:12:18Z" changeset="31941389" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Cova-Dolmen del Rec de la Quarentena 2"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1462533627" lat="42.2639481" lon="3.1980251" version="3" timestamp="2015-06-13T11:12:18Z" changeset="31941389" uid="863649" user="Uranzu">
+    <tag k="fixme" v="position"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Casa Cremada"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1462533643" lat="42.2642974" lon="3.1948186" version="2" timestamp="2015-06-13T11:12:19Z" changeset="31941389" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="menhir"/>
+    <tag k="name" v="Menhir de la Casa Cremada 1"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1532549516" lat="42.4227982" lon="3.0148576" version="1" timestamp="2011-12-05T09:35:50Z" changeset="10040348" uid="428521" user="janes">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="Dolmen de Puig Balaguer"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1532549523" lat="42.4191794" lon="3.0153413" version="1" timestamp="2011-12-05T09:35:50Z" changeset="10040348" uid="428521" user="janes">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="Dolmen del Mas Girarols II"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1532549528" lat="42.4186575" lon="3.0157523" version="1" timestamp="2011-12-05T09:35:50Z" changeset="10040348" uid="428521" user="janes">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="Sepulcre del Corredor de Mas Girarols I"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1643395934" lat="41.9038398" lon="3.1223533" version="4" timestamp="2019-10-04T15:56:17Z" changeset="75294151" uid="3859465" user="Toni Serra">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen d'en Botey"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1643395935" lat="41.9023980" lon="3.1182337" version="4" timestamp="2019-10-04T15:56:17Z" changeset="75294151" uid="3859465" user="Toni Serra">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de L'Estanyet"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1643418366" lat="41.9042428" lon="3.0842954" version="6" timestamp="2019-10-05T18:11:02Z" changeset="75324927" uid="3859465" user="Toni Serra">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Llobinar"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1734334112" lat="41.9187528" lon="3.0824963" version="5" timestamp="2019-10-05T18:11:02Z" changeset="75324927" uid="3859465" user="Toni Serra">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen dels Tres Peus"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1760818470" lat="41.9247730" lon="3.0909576" version="2" timestamp="2019-10-05T18:18:16Z" changeset="75325051" uid="3859465" user="Toni Serra">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Carena Jonquet-Vidal"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1760818472" lat="41.9192585" lon="3.0944672" version="2" timestamp="2019-10-05T18:11:02Z" changeset="75324927" uid="3859465" user="Toni Serra">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Serra Mitjana"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1760818475" lat="41.9185808" lon="3.0844059" version="4" timestamp="2020-02-12T18:28:54Z" changeset="80919293" uid="10436216" user="joanillo-import">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen dels Tres Caires"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="1832244360" lat="41.7448513" lon="2.0346656" version="3" timestamp="2017-09-25T03:23:49Z" changeset="52343145" uid="339581" user="nyuriks">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Trullars"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q11917569"/>
+    <tag k="wikipedia" v="ca:Dolmen de Trullars"/>
+  </node>
+  <node id="2020087877" lat="42.3606415" lon="1.2737006" version="1" timestamp="2012-11-18T16:58:36Z" changeset="13920919" uid="469238" user="pitort">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="menhir"/>
+    <tag k="name" v="Menhir del coll de Sant Magí"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="2034651770" lat="42.2294425" lon="1.7623354" version="3" timestamp="2020-02-14T22:48:32Z" changeset="81028376" uid="10376780" user="joanillo">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Molers"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="wikidata" v="Q11917562"/>
+    <tag k="wikipedia" v="ca:Dolmen de Molers"/>
+  </node>
+  <node id="2077581601" lat="41.6847361" lon="1.5798472" version="2" timestamp="2017-09-25T03:25:42Z" changeset="52343157" uid="339581" user="nyuriks">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen dels Tres Reis"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q11917580"/>
+    <tag k="wikipedia" v="ca:Dolmen dels Tres Reis"/>
+  </node>
+  <node id="2092226976" lat="42.2167673" lon="1.3052200" version="3" timestamp="2015-06-13T16:20:46Z" changeset="31946643" uid="863649" user="Uranzu">
+    <tag k="alt_name" v="Dolmen Serrat de los Cobertades"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Cal Llauna"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="www.megalitos.es"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="2092226981" lat="42.2197080" lon="1.2960890" version="2" timestamp="2015-06-11T20:53:20Z" changeset="31907276" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Colomera"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="2092226986" lat="42.2216984" lon="1.2921149" version="2" timestamp="2015-06-13T16:20:47Z" changeset="31946643" uid="863649" user="Uranzu">
+    <tag k="alt_name" v="Serrat del Mapas"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Mal Pas"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="2184301048" lat="42.4317369" lon="2.9409969" version="2" timestamp="2018-10-20T20:00:34Z" changeset="63713096" uid="6389" user="Jesús Gómez">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="Dolmen del Coll de Medàs I"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q56191448"/>
+  </node>
+  <node id="2184301069" lat="42.4407092" lon="2.9321940" version="1" timestamp="2013-03-03T19:13:12Z" changeset="15238032" uid="428521" user="janes">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="passage_grave"/>
+    <tag k="name" v="Sepulcre de corredor del Coll de Baix"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="2323049083" lat="42.3253367" lon="3.1592160" version="3" timestamp="2019-10-04T16:16:34Z" changeset="75295104" uid="3859465" user="Toni Serra">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="menhir"/>
+    <tag k="name" v="Menhir de Santa Helena"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2441483111" lat="42.0988000" lon="2.7319000" version="1" timestamp="2013-09-01T14:54:29Z" changeset="17619922" uid="469238" user="pitort">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de les Closes"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3019738623" lat="41.8040294" lon="2.9698291" version="2" timestamp="2014-08-18T21:11:28Z" changeset="24844551" uid="802606" user="Corneille Schmitz">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="menhir"/>
+    <tag k="name" v="Menhir de Can Llaurador"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3200122459" lat="41.7859540" lon="2.2720270" version="2" timestamp="2014-11-22T16:31:36Z" changeset="26955238" uid="129718" user="sim6">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Can Serra de l'Arca"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3201731157" lat="41.7804875" lon="2.2607741" version="1" timestamp="2014-11-23T15:58:13Z" changeset="26976075" uid="129718" user="sim6">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen Cruïlles"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3362300167" lat="41.8629921" lon="1.5234410" version="2" timestamp="2015-06-13T16:20:47Z" changeset="31946643" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Pera"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="3379543991" lat="42.3172646" lon="3.1307415" version="1" timestamp="2015-03-02T13:21:05Z" changeset="29198823" uid="87939" user="antecessor">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen Barraca d'en Rabert"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="www.megalitos.es"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="3588437205" lat="41.8986784" lon="1.4757973" version="2" timestamp="2015-06-13T16:20:47Z" changeset="31946643" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Llobera"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="www.megalitos.es"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="3588437206" lat="42.1222752" lon="1.4557222" version="3" timestamp="2016-01-25T11:40:35Z" changeset="36794293" uid="605366" user="EliziR">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen d'Odèn Nord"/>
+    <tag k="name:ca" v="Dolmen d'Odèn Nord"/>
+    <tag k="name:es" v="Dolmen de Odén Norte"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="www.megalitos.es"/>
+  </node>
+  <node id="3588437207" lat="42.1211623" lon="1.4558672" version="3" timestamp="2016-01-25T11:40:35Z" changeset="36794293" uid="605366" user="EliziR">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen d'Odèn Sud"/>
+    <tag k="name:ca" v="Dolmen d'Odèn Sud"/>
+    <tag k="name:es" v="Dolmen de Odén Sur"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="www.megalitos.es"/>
+  </node>
+  <node id="3588437208" lat="42.2282017" lon="1.2774709" version="2" timestamp="2015-06-13T16:20:47Z" changeset="31946643" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Pedracabana"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="www.megalitos.es"/>
+  </node>
+  <node id="3588437209" lat="42.3199574" lon="1.0482943" version="3" timestamp="2018-09-04T01:49:58Z" changeset="62262814" uid="3436983" user="idrissi">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="la Cabana de la Mosquera"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="www.megalitos.es"/>
+  </node>
+  <node id="3588437210" lat="42.2247687" lon="1.2855906" version="2" timestamp="2015-06-13T16:20:47Z" changeset="31946643" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de l'Oliva"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="www.megalitos.es"/>
+  </node>
+  <node id="3588437211" lat="42.3809653" lon="1.5592901" version="3" timestamp="2020-02-12T18:40:06Z" changeset="80919575" uid="10436216" user="joanillo-import">
+    <tag k="alt_name" v="Dolmen de Bescarán"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Cabana del Moro"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="www.megalitos.es"/>
+  </node>
+  <node id="3588437212" lat="42.2449253" lon="1.2028800" version="2" timestamp="2015-06-13T16:20:47Z" changeset="31946643" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Molí de Fava"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="www.megalitos.es"/>
+  </node>
+  <node id="3591992041" lat="42.3302196" lon="3.1570622" version="1" timestamp="2015-06-13T11:12:10Z" changeset="31941389" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen La Pallera"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3591992042" lat="42.3305147" lon="3.1892949" version="1" timestamp="2015-06-13T11:12:10Z" changeset="31941389" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Taula des Lladres"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="www.megalitos.es"/>
+    <tag k="tourism" v="attraction"/>
+  </node>
+  <node id="3591992043" lat="42.1413679" lon="2.5415274" version="1" timestamp="2015-06-13T11:12:10Z" changeset="31941389" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="menhir"/>
+    <tag k="name" v="Menhir de Santa Margarida"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="www.megalitos.es"/>
+  </node>
+  <node id="3592507415" lat="42.3840002" lon="1.3263619" version="1" timestamp="2015-06-13T16:20:39Z" changeset="31946643" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Turbiàs"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="source" v="www.megalitos.es"/>
+  </node>
+  <node id="3596929096" lat="42.0107700" lon="0.9999960" version="1" timestamp="2015-06-15T18:04:38Z" changeset="31989681" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen Lloella del Llop 1"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3596929097" lat="42.0094796" lon="1.0023842" version="1" timestamp="2015-06-15T18:04:38Z" changeset="31989681" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen Lloella del Llop 2"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3596929098" lat="42.0119299" lon="1.0145288" version="1" timestamp="2015-06-15T18:04:38Z" changeset="31989681" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen Sol Joaquim"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3596929099" lat="42.0133773" lon="1.0191379" version="1" timestamp="2015-06-15T18:04:38Z" changeset="31989681" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Paús"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3596929100" lat="41.9991301" lon="1.0415717" version="1" timestamp="2015-06-15T18:04:38Z" changeset="31989681" uid="863649" user="Uranzu">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Cogulló"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3639145830" lat="41.7626695" lon="2.2430522" version="1" timestamp="2015-07-07T11:53:03Z" changeset="32469907" uid="129718" user="sim6">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Duc"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3646333378" lat="42.2158514" lon="1.3641687" version="1" timestamp="2015-07-11T15:03:14Z" changeset="32565821" uid="469238" user="pitort">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dòlmen del Lligonàs"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3655728140" lat="42.2022952" lon="1.4087535" version="1" timestamp="2015-07-17T16:28:31Z" changeset="32701390" uid="469238" user="pitort">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dòlmen de Coll Durau"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3689890932" lat="41.5666667" lon="2.3316667" version="4" timestamp="2019-12-30T17:29:44Z" changeset="79024074" uid="469238" user="pitort">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Céllecs (Cabana del Moro)"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q11917559"/>
+    <tag k="wikipedia" v="ca:Dolmen de Céllecs"/>
+  </node>
+  <node id="3689890933" lat="41.5819375" lon="2.3411417" version="2" timestamp="2019-08-19T16:38:45Z" changeset="73506992" uid="2627839" user="Artur427">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Pedra Foradada de Can Planes"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3710417073" lat="42.3907588" lon="2.8047960" version="1" timestamp="2015-08-23T11:35:04Z" changeset="33523164" uid="469238" user="pitort">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Pardals"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3710570427" lat="42.3822833" lon="2.8045636" version="1" timestamp="2015-08-23T13:45:40Z" changeset="33525067" uid="469238" user="pitort">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Mas Puig de Caneres"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3710611193" lat="42.4097333" lon="2.9671532" version="2" timestamp="2017-09-25T03:09:42Z" changeset="52342967" uid="339581" user="nyuriks">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Fontanilles"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q11917561"/>
+    <tag k="wikipedia" v="ca:Dolmen de Fontanilles"/>
+  </node>
+  <node id="3710698957" lat="42.4003377" lon="2.9784609" version="1" timestamp="2015-08-23T15:29:03Z" changeset="33526824" uid="469238" user="pitort">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Abric de la Murtra"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3710698958" lat="42.4025456" lon="2.9777796" version="1" timestamp="2015-08-23T15:29:03Z" changeset="33526824" uid="469238" user="pitort">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="menhir"/>
+    <tag k="name" v="Menhir de la Murtra"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="3710732556" lat="42.3964092" lon="2.9804157" version="3" timestamp="2017-09-25T03:09:43Z" changeset="52342967" uid="339581" user="nyuriks">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Gutina"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q11917572"/>
+    <tag k="wikipedia" v="ca:Dolmen de la Gutina"/>
+  </node>
+  <node id="3710742116" lat="42.3947725" lon="2.9786374" version="2" timestamp="2017-09-25T03:09:43Z" changeset="52342967" uid="339581" user="nyuriks">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Tires Llargues"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q11917567"/>
+    <tag k="wikipedia" v="ca:Dolmen de Tires Llargues"/>
+  </node>
+  <node id="3710789562" lat="42.3894707" lon="2.9791423" version="2" timestamp="2017-09-25T03:09:43Z" changeset="52342967" uid="339581" user="nyuriks">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Prat Tancat"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q11917576"/>
+    <tag k="wikipedia" v="ca:Dolmen del Prat Tancat"/>
+  </node>
+  <node id="3710810551" lat="42.3846597" lon="2.9881530" version="2" timestamp="2017-09-25T03:09:43Z" changeset="52342967" uid="339581" user="nyuriks">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Cabana Arqueta"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q764173"/>
+    <tag k="wikipedia" v="ca:Dolmen de la Cabana Arqueta"/>
+  </node>
+  <node id="3710856916" lat="42.3953160" lon="2.9855150" version="2" timestamp="2017-09-25T03:09:43Z" changeset="52342967" uid="339581" user="nyuriks">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Puig de Pal"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q11917573"/>
+    <tag k="wikipedia" v="ca:Dolmen de la Gutina/Puig del Pal"/>
+  </node>
+  <node id="3759984591" lat="41.7672490" lon="2.0454310" version="2" timestamp="2017-09-25T03:23:58Z" changeset="52343145" uid="339581" user="nyuriks">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Trompo"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q11917574"/>
+    <tag k="wikipedia" v="ca:Dolmen del Trompo"/>
+  </node>
+  <node id="3906489642" lat="42.3177447" lon="3.1512455" version="2" timestamp="2019-10-04T16:13:15Z" changeset="75295104" uid="3859465" user="Toni Serra">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Sureda"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="4762025351" lat="41.7471620" lon="2.0936478" version="1" timestamp="2017-03-29T14:44:32Z" changeset="47262219" uid="423535" user="ccamara">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Criac"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="4762041078" lat="41.7427215" lon="2.1101068" version="2" timestamp="2019-07-17T12:54:58Z" changeset="72347406" uid="423535" user="ccamara">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Gavatx"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q65210717"/>
+    <tag k="wikipedia" v="ca:Dolmen del Gavatx"/>
+  </node>
+  <node id="5183998762" lat="41.4951283" lon="1.6142551" version="2" timestamp="2018-11-26T01:11:07Z" changeset="64880761" uid="126203" user="Jose Luis Infante">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Conanriba"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="5338847085" lat="41.7606900" lon="2.3372272" version="3" timestamp="2018-01-14T16:08:02Z" changeset="55435283" uid="469238" user="pitort">
+    <tag k="alt_name" v="Sitja del Llop"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="menhir"/>
+    <tag k="moved" v="yes"/>
+    <tag k="name" v="Estela de la Calma"/>
+    <tag k="note" v="El megalit actual és una còpia, l'original és al poble de Montseny. The current megalith is a copy, the original is in a village called Montseny."/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="website" v="http://www.montseny.cat/turisme/llocs-dinteres/mirador-de-lestela.html"/>
+    <tag k="wikipedia" v="ca:Estela de la Calma"/>
+  </node>
+  <node id="5550555735" lat="42.4263111" lon="3.0387715" version="2" timestamp="2019-01-20T16:44:26Z" changeset="66479919" uid="5788536" user="Gégé66">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="historic:civilization" v="prehistoric"/>
+    <tag k="name" v="Dolmen del Solà d'en Gibert"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="5678047953" lat="41.7624525" lon="2.0949912" version="1" timestamp="2018-06-09T15:28:12Z" changeset="59693485" uid="423535" user="ccamara">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Mas Clamí"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q50689087"/>
+  </node>
+  <node id="5839879703" lat="41.9713882" lon="1.1024276" version="1" timestamp="2018-08-18T13:33:48Z" changeset="61770698" uid="469238" user="pitort">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Megàlits del Pla de Montargull"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="5857040589" lat="42.4272795" lon="2.9478336" version="1" timestamp="2018-08-25T17:22:54Z" changeset="61990506" uid="2096551" user="mcompte">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="Dolmen de la Coma del Gall"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="5857040675" lat="42.4314784" lon="2.9422277" version="1" timestamp="2018-08-25T17:22:55Z" changeset="61990506" uid="2096551" user="mcompte">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="Dolmen del Coll de Medàs II"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="5857040676" lat="42.4314176" lon="2.9419356" version="1" timestamp="2018-08-25T17:22:55Z" changeset="61990506" uid="2096551" user="mcompte">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="grosssteingrab"/>
+    <tag k="name" v="Dolmen del Coll de Medàs III"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="5880183544" lat="42.3188607" lon="1.0463812" version="3" timestamp="2020-02-14T14:55:50Z" changeset="81014464" uid="10436216" user="joanillo-import">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="historic:civilization" v="prehistoric"/>
+    <tag k="megalith_type" v="Dolmen de les Esplanes"/>
+    <tag k="name" v="Dolmen de les Esplanes"/>
+    <tag k="ruins" v="yes"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="5888875376" lat="42.3537434" lon="0.9951430" version="1" timestamp="2018-09-06T21:40:19Z" changeset="62356454" uid="3436983" user="idrissi">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="passage_grave"/>
+    <tag k="name" v="la Cabaneta"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="6052836380" lat="41.8848965" lon="1.1196564" version="1" timestamp="2018-11-11T15:15:54Z" changeset="64377085" uid="469238" user="pitort">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Jaciment arqueològic de Reguers de Seró"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q21036894"/>
+    <tag k="wikipedia" v="ca:Jaciment arqueològic de Reguers de Seró"/>
+  </node>
+  <node id="6188155692" lat="42.3443274" lon="1.2246121" version="2" timestamp="2019-01-07T12:05:12Z" changeset="66094431" uid="616774" user="mueschel">
+    <tag k="alt_name" v="Llosa del Corralet"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de Biscarbó"/>
+    <tag k="site_type" v="megalith"/>
+    <tag k="wikidata" v="Q19367912"/>
+    <tag k="wikipedia" v="ca:Dolmen de Biscarbó"/>
+  </node>
+  <node id="6340110222" lat="42.3258884" lon="2.6235965" version="1" timestamp="2019-03-15T16:01:10Z" changeset="68180454" uid="5788536" user="Gégé66">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="historic:civilization" v="prehistoric"/>
+    <tag k="name" v="Dolmen de la Creu de Principi"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="6846523887" lat="41.9189887" lon="3.0835634" version="3" timestamp="2019-10-05T18:11:02Z" changeset="75324927" uid="3859465" user="Toni Serra">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Serra d'en Calç"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="6846666985" lat="41.9222348" lon="3.0762992" version="2" timestamp="2019-10-05T18:11:02Z" changeset="75324927" uid="3859465" user="Toni Serra">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Cista del Clot del Llorer"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="6846686185" lat="41.9227992" lon="3.0729285" version="2" timestamp="2019-10-05T18:11:02Z" changeset="75324927" uid="3859465" user="Toni Serra">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen del Dr Pericot"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+  <node id="6853233986" lat="41.9167201" lon="3.0977443" version="3" timestamp="2019-10-05T18:18:16Z" changeset="75325051" uid="3859465" user="Toni Serra">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="megalith_type" v="dolmen"/>
+    <tag k="name" v="Dolmen de la Roca de la Gla"/>
+    <tag k="site_type" v="megalith"/>
+  </node>
+
+</osm>
+

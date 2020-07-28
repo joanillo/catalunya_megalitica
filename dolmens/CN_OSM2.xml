@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.1011 6c2efc30">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2020-02-20T01:03:02Z" areas="2020-02-20T00:52:03Z"/>
+
+  <node id="6791512158" lat="42.4835815" lon="2.0701599">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen El Moli"/>
+  </node>
+  <area id="3600409749">
+    <tag k="addr:postcode" v="66800"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Eyne"/>
+    <tag k="name:ca" v="Eina"/>
+    <tag k="name:fr" v="Eyne"/>
+    <tag k="population" v="130"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66075"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q290830"/>
+    <tag k="wikipedia" v="fr:Eyne"/>
+  </area>
+  <node id="6791491712" lat="42.4810982" lon="2.0795801">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Lo Pou"/>
+  </node>
+  <area id="3600409749">
+    <tag k="addr:postcode" v="66800"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Eyne"/>
+    <tag k="name:ca" v="Eina"/>
+    <tag k="name:fr" v="Eyne"/>
+    <tag k="population" v="130"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66075"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q290830"/>
+    <tag k="wikipedia" v="fr:Eyne"/>
+  </area>
+  <node id="6791512032" lat="42.4850845" lon="2.0652907">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen Roca Flavia II"/>
+  </node>
+  <area id="3600018496">
+    <tag k="addr:postcode" v="66120"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="alt_name" v="Font-Romeu"/>
+    <tag k="alt_name:ca" v="Font-Romeu"/>
+    <tag k="alt_name:fr" v="Font-Romeu"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Font-Romeu-Odeillo-Via"/>
+    <tag k="name:ca" v="Font-romeu, Odelló i Vià"/>
+    <tag k="name:fr" v="Font-Romeu-Odeillo-Via"/>
+    <tag k="population" v="1928"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66124"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="website" v="http://www.font-romeu.fr/"/>
+    <tag k="wikidata" v="Q458715"/>
+    <tag k="wikipedia" v="fr:Font-Romeu-Odeillo-Via"/>
+  </area>
+  <node id="6791440265" lat="42.4854202" lon="2.0741701">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen dels Pascarets (de La Borda)"/>
+  </node>
+  <area id="3600409749">
+    <tag k="addr:postcode" v="66800"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Eyne"/>
+    <tag k="name:ca" v="Eina"/>
+    <tag k="name:fr" v="Eyne"/>
+    <tag k="population" v="130"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66075"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q290830"/>
+    <tag k="wikipedia" v="fr:Eyne"/>
+  </area>
+  <node id="5485937114" lat="42.4193772" lon="2.4662240">
+    <tag k="description" v="dolmen"/>
+    <tag k="name" v="Dolmen du Castillo"/>
+  </node>
+  <area id="3602918640">
+    <tag k="addr:postcode" v="66230"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Prats-de-Mollo-la-Preste"/>
+    <tag k="population" v="1163"/>
+    <tag k="ref:INSEE" v="66150"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q828602"/>
+    <tag k="wikipedia" v="fr:Prats-de-Mollo-la-Preste"/>
+  </area>
+  <node id="6791469955" lat="42.5599365" lon="2.3296688">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Pla del Tarters II"/>
+  </node>
+  <area id="3602897486">
+    <tag k="addr:postcode" v="66360"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Serdinya"/>
+    <tag k="population" v="246"/>
+    <tag k="ref:INSEE" v="66193"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q943165"/>
+    <tag k="wikipedia" v="fr:Serdinya"/>
+  </area>
+  <node id="6791481972" lat="42.5598831" lon="2.3296938">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Pla del Tarters I"/>
+  </node>
+  <area id="3602897486">
+    <tag k="addr:postcode" v="66360"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Serdinya"/>
+    <tag k="population" v="246"/>
+    <tag k="ref:INSEE" v="66193"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q943165"/>
+    <tag k="wikipedia" v="fr:Serdinya"/>
+  </area>
+  <node id="6791503444" lat="42.5426140" lon="2.3397675">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen Pla d'Arques I"/>
+  </node>
+  <area id="3602875472">
+    <tag k="addr:postcode" v="66820"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Fuilla"/>
+    <tag k="population" v="448"/>
+    <tag k="ref:INSEE" v="66085"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q379442"/>
+    <tag k="wikipedia" v="fr:Fuilla"/>
+  </area>
+  <node id="6791509463" lat="42.5462646" lon="2.3433950">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen Pla d'Arques II"/>
+  </node>
+  <area id="3602875472">
+    <tag k="addr:postcode" v="66820"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Fuilla"/>
+    <tag k="population" v="448"/>
+    <tag k="ref:INSEE" v="66085"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q379442"/>
+    <tag k="wikipedia" v="fr:Fuilla"/>
+  </area>
+  <node id="6791500449" lat="42.5657539" lon="2.3466630">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Santa Eulàlia I"/>
+  </node>
+  <area id="3602875472">
+    <tag k="addr:postcode" v="66820"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Fuilla"/>
+    <tag k="population" v="448"/>
+    <tag k="ref:INSEE" v="66085"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q379442"/>
+    <tag k="wikipedia" v="fr:Fuilla"/>
+  </area>
+  <node id="6791510536" lat="42.5683899" lon="2.3465135">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Santa Eulàlia II"/>
+  </node>
+  <area id="3602897486">
+    <tag k="addr:postcode" v="66360"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Serdinya"/>
+    <tag k="population" v="246"/>
+    <tag k="ref:INSEE" v="66193"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q943165"/>
+    <tag k="wikipedia" v="fr:Serdinya"/>
+  </area>
+  <node id="652700743" lat="42.5673019" lon="2.3712150">
+    <tag k="highway" v="trailhead"/>
+    <tag k="name" v="Départ : Le Dolmen/Chapelle St Clement"/>
+  </node>
+  <area id="3602862710">
+    <tag k="addr:postcode" v="66820"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Corneilla-de-Conflent"/>
+    <tag k="population" v="490"/>
+    <tag k="ref:INSEE" v="66057"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q198509"/>
+    <tag k="wikipedia" v="fr:Corneilla-de-Conflent"/>
+  </area>
+  <node id="6791505035" lat="42.5676651" lon="2.3666971">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la Coberturat"/>
+  </node>
+  <area id="3602862710">
+    <tag k="addr:postcode" v="66820"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Corneilla-de-Conflent"/>
+    <tag k="population" v="490"/>
+    <tag k="ref:INSEE" v="66057"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q198509"/>
+    <tag k="wikipedia" v="fr:Corneilla-de-Conflent"/>
+  </area>
+  <node id="6791481719" lat="42.5810356" lon="2.3872540">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Serrat d'en Parrot"/>
+  </node>
+  <area id="3602862710">
+    <tag k="addr:postcode" v="66820"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Corneilla-de-Conflent"/>
+    <tag k="population" v="490"/>
+    <tag k="ref:INSEE" v="66057"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q198509"/>
+    <tag k="wikipedia" v="fr:Corneilla-de-Conflent"/>
+  </area>
+  <node id="6791468173" lat="42.6879698" lon="2.2506362">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du col de Jau"/>
+  </node>
+  <area id="3602827098">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Mosset"/>
+    <tag k="population" v="308"/>
+    <tag k="ref:INSEE" v="66119"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q190171"/>
+    <tag k="wikipedia" v="fr:Mosset"/>
+  </area>
+  <node id="6791487177" lat="42.6266212" lon="2.3785300">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Prat Clos"/>
+  </node>
+  <area id="3602827311">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ria-Sirach"/>
+    <tag k="population" v="1325"/>
+    <tag k="ref:INSEE" v="66161"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q752117"/>
+    <tag k="wikipedia" v="fr:Ria-Sirach"/>
+  </area>
+  <node id="6791492587" lat="42.6310043" lon="2.3635430">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen Font de l'Aram I"/>
+  </node>
+  <area id="3602827311">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ria-Sirach"/>
+    <tag k="population" v="1325"/>
+    <tag k="ref:INSEE" v="66161"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q752117"/>
+    <tag k="wikipedia" v="fr:Ria-Sirach"/>
+  </area>
+  <node id="6791501106" lat="42.6306648" lon="2.3593633">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de l'Homme Mort"/>
+  </node>
+  <area id="3602827311">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ria-Sirach"/>
+    <tag k="population" v="1325"/>
+    <tag k="ref:INSEE" v="66161"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q752117"/>
+    <tag k="wikipedia" v="fr:Ria-Sirach"/>
+  </area>
+  <node id="6791503445" lat="42.6391296" lon="2.3640499">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen des Falguères de Baix"/>
+  </node>
+  <area id="3602827098">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Mosset"/>
+    <tag k="population" v="308"/>
+    <tag k="ref:INSEE" v="66119"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q190171"/>
+    <tag k="wikipedia" v="fr:Mosset"/>
+  </area>
+  <node id="6791481052" lat="42.6852112" lon="2.3469701">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen del Mollo"/>
+  </node>
+  <area id="3602827098">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Mosset"/>
+    <tag k="population" v="308"/>
+    <tag k="ref:INSEE" v="66119"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q190171"/>
+    <tag k="wikipedia" v="fr:Mosset"/>
+  </area>
+  <node id="6791473106" lat="42.6589622" lon="2.4083540">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Sant Ponci"/>
+  </node>
+  <area id="3602820751">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Molitg-les-Bains"/>
+    <tag k="population" v="233"/>
+    <tag k="ref:INSEE" v="66109"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q752153"/>
+    <tag k="wikipedia" v="fr:Molitg-les-Bains"/>
+  </area>
+  <node id="6791487510" lat="42.6729813" lon="2.4004200">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Pla de l'Arca"/>
+  </node>
+  <area id="3602820751">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Molitg-les-Bains"/>
+    <tag k="population" v="233"/>
+    <tag k="ref:INSEE" v="66109"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q752153"/>
+    <tag k="wikipedia" v="fr:Molitg-les-Bains"/>
+  </area>
+  <node id="6680239995" lat="42.6789284" lon="2.4095700">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Col de Tribes"/>
+  </node>
+  <area id="3602820388">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Eus"/>
+    <tag k="population" v="388"/>
+    <tag k="ref:INSEE" v="66074"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q919415"/>
+    <tag k="wikipedia" v="fr:Eus"/>
+  </area>
+  <node id="6791509462" lat="42.6028976" lon="2.4544282">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen La Lloseta"/>
+  </node>
+  <area id="3602864868">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Clara-Villerach"/>
+    <tag k="population" v="256"/>
+    <tag k="ref:INSEE" v="66051"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q199744"/>
+    <tag k="wikipedia" v="fr:Clara-Villerach"/>
+  </area>
+  <node id="6791492454" lat="42.6227989" lon="2.4627800">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de los Masos"/>
+  </node>
+  <area id="3600054469">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Los Masos"/>
+    <tag k="population" v="966"/>
+    <tag k="ref:INSEE" v="66104"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q531252"/>
+    <tag k="wikipedia" v="fr:Los Masos"/>
+  </area>
+  <node id="6791513606" lat="42.6533585" lon="2.4348300">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la Serra Mitjana"/>
+  </node>
+  <area id="3602820610">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Catllar"/>
+    <tag k="population" v="771"/>
+    <tag k="ref:INSEE" v="66045"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q197689"/>
+    <tag k="wikipedia" v="fr:Catllar"/>
+  </area>
+  <node id="6680203402" lat="42.6570892" lon="2.4172664">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen Arca de Calahons I"/>
+  </node>
+  <area id="3602820610">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Catllar"/>
+    <tag k="population" v="771"/>
+    <tag k="ref:INSEE" v="66045"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q197689"/>
+    <tag k="wikipedia" v="fr:Catllar"/>
+  </area>
+  <node id="6791508036" lat="42.6573181" lon="2.4159200">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de l'Arca de Calaons III"/>
+  </node>
+  <area id="3602820388">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Eus"/>
+    <tag k="population" v="388"/>
+    <tag k="ref:INSEE" v="66074"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q919415"/>
+    <tag k="wikipedia" v="fr:Eus"/>
+  </area>
+  <node id="6680242485" lat="42.6839981" lon="2.4340401">
+    <tag k="description" v="site ruiné par le passage des bulldozers lors de la construction de la piste DFCI"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la Femno Morto (ruiné)"/>
+  </node>
+  <area id="3602818795">
+    <tag k="addr:postcode" v="66730"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Campoussy"/>
+    <tag k="name:oc" v="Camporsin"/>
+    <tag k="population" v="37"/>
+    <tag k="ref:INSEE" v="66035"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q190098"/>
+    <tag k="wikipedia" v="fr:Campoussy"/>
+  </area>
+  <node id="6680238002" lat="42.6744194" lon="2.4395299">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la Font de l'Orri"/>
+  </node>
+  <area id="3602820388">
+    <tag k="addr:postcode" v="66500"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Eus"/>
+    <tag k="population" v="388"/>
+    <tag k="ref:INSEE" v="66074"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q919415"/>
+    <tag k="wikipedia" v="fr:Eus"/>
+  </area>
+  <node id="6680209879" lat="42.6795502" lon="2.4543800">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la Cova del Misser"/>
+  </node>
+  <area id="3602818795">
+    <tag k="addr:postcode" v="66730"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Campoussy"/>
+    <tag k="name:oc" v="Camporsin"/>
+    <tag k="population" v="37"/>
+    <tag k="ref:INSEE" v="66035"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q190098"/>
+    <tag k="wikipedia" v="fr:Campoussy"/>
+  </area>
+  <node id="6680215404" lat="42.6657906" lon="2.4654713">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen dels Planiols"/>
+  </node>
+  <area id="3602817026">
+    <tag k="addr:postcode" v="66320"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Arboussols"/>
+    <tag k="population" v="118"/>
+    <tag k="ref:INSEE" v="66007"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q199851"/>
+    <tag k="wikipedia" v="fr:Arboussols"/>
+  </area>
+  <node id="6680236401" lat="42.6663437" lon="2.4661133">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen Cortal dels Polls"/>
+  </node>
+  <area id="3602817026">
+    <tag k="addr:postcode" v="66320"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Arboussols"/>
+    <tag k="population" v="118"/>
+    <tag k="ref:INSEE" v="66007"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q199851"/>
+    <tag k="wikipedia" v="fr:Arboussols"/>
+  </area>
+  <node id="6791513689" lat="42.6727371" lon="2.5126414">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de La Llussanes II"/>
+  </node>
+  <area id="3602816871">
+    <tag k="addr:postcode" v="66320"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Tarerach"/>
+    <tag k="population" v="46"/>
+    <tag k="ref:INSEE" v="66201"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1350733"/>
+    <tag k="wikipedia" v="fr:Tarerach"/>
+  </area>
+  <node id="6791509882" lat="42.7625809" lon="2.4967699">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la Cauna del Moro"/>
+  </node>
+  <area id="3602816521">
+    <tag k="addr:postcode" v="66730"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Felluns"/>
+    <tag k="name:oc" v="Felhuns"/>
+    <tag k="population" v="70"/>
+    <tag k="ref:INSEE" v="66076"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1445576"/>
+    <tag k="wikipedia" v="fr:Felluns"/>
+  </area>
+  <node id="6753024264" lat="42.7612376" lon="2.4983811">
+    <tag k="historic" v="ruins"/>
+    <tag k="name" v="Dolmen de la Roc de l'Arca"/>
+    <tag k="wikidata" v="Q16031944"/>
+  </node>
+  <area id="3602816521">
+    <tag k="addr:postcode" v="66730"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Felluns"/>
+    <tag k="name:oc" v="Felhuns"/>
+    <tag k="population" v="70"/>
+    <tag k="ref:INSEE" v="66076"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1445576"/>
+    <tag k="wikipedia" v="fr:Felluns"/>
+  </area>
+  <node id="5386006399" lat="42.7618904" lon="2.5071655">
+    <tag k="historic" v="ruins"/>
+    <tag k="historic:civilization" v="prehistoric"/>
+    <tag k="name" v="Dolmen de la Rouyre"/>
+    <tag k="wikidata" v="Q16031950"/>
+    <tag k="wikipedia" v="fr:Dolmen de la Rouyre"/>
+  </node>
+  <area id="3600021627">
+    <tag k="addr:postcode" v="66220"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ansignan"/>
+    <tag k="name:oc" v="Ansinhan"/>
+    <tag k="population" v="166"/>
+    <tag k="ref:INSEE" v="66006"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q569872"/>
+    <tag k="wikipedia" v="fr:Ansignan"/>
+  </area>
+  <node id="6791507907" lat="42.7618428" lon="2.5071779">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la Rouyre"/>
+  </node>
+  <area id="3600021627">
+    <tag k="addr:postcode" v="66220"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ansignan"/>
+    <tag k="name:oc" v="Ansinhan"/>
+    <tag k="population" v="166"/>
+    <tag k="ref:INSEE" v="66006"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q569872"/>
+    <tag k="wikipedia" v="fr:Ansignan"/>
+  </area>
+  <node id="6791477829" lat="42.7619019" lon="2.5163901">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen la Calcine"/>
+  </node>
+  <area id="3600021627">
+    <tag k="addr:postcode" v="66220"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Ansignan"/>
+    <tag k="name:oc" v="Ansinhan"/>
+    <tag k="population" v="166"/>
+    <tag k="ref:INSEE" v="66006"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q569872"/>
+    <tag k="wikipedia" v="fr:Ansignan"/>
+  </area>
+  <node id="6791507905" lat="42.5353279" lon="2.6056135">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Serrat de Les Fonts II"/>
+  </node>
+  <area id="3602919179">
+    <tag k="addr:postcode" v="66110"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Saint-Marsal"/>
+    <tag k="population" v="71"/>
+    <tag k="ref:INSEE" v="66183"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q971883"/>
+    <tag k="wikipedia" v="fr:Saint-Marsal"/>
+  </area>
+  <node id="6791511810" lat="42.5385323" lon="2.6104279">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Serrat de Les Fonts I"/>
+  </node>
+  <area id="3602919179">
+    <tag k="addr:postcode" v="66110"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Saint-Marsal"/>
+    <tag k="population" v="71"/>
+    <tag k="ref:INSEE" v="66183"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q971883"/>
+    <tag k="wikipedia" v="fr:Saint-Marsal"/>
+  </area>
+  <node id="6791507904" lat="42.5053482" lon="2.6901600">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Camp d'en Séris"/>
+  </node>
+  <area id="3600401880">
+    <tag k="addr:postcode" v="66400"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Reynès"/>
+    <tag k="name:ca" v="Reiners"/>
+    <tag k="name:fr" v="Reynès"/>
+    <tag k="name:oc" v="Reiners"/>
+    <tag k="population" v="1328"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66160"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q6627"/>
+    <tag k="wikipedia" v="fr:Reynès"/>
+  </area>
+  <node id="6791490783" lat="42.4631691" lon="2.7913301">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Coorec de La Siureda"/>
+  </node>
+  <area id="3600392304">
+    <tag k="addr:postcode" v="66480"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Maureillas-las-Illas"/>
+    <tag k="name:ca" v="Morellàs i les Illes"/>
+    <tag k="name:fr" v="Maureillas-las-Illas"/>
+    <tag k="name:oc" v="Morellàs i les Illes"/>
+    <tag k="population" v="2544"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:FR:SIREN" v="216601062"/>
+    <tag k="ref:INSEE" v="66106"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q7972"/>
+    <tag k="wikipedia" v="fr:Maureillas-las-Illas"/>
+  </area>
+  <node id="6791511591" lat="42.5344391" lon="2.7458301">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Galuert"/>
+  </node>
+  <area id="3600023823">
+    <tag k="addr:postcode" v="66300"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Llauro"/>
+    <tag k="population" v="317"/>
+    <tag k="ref:INSEE" v="66099"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1369316"/>
+    <tag k="wikipedia" v="fr:Llauro"/>
+  </area>
+  <node id="6791473417" lat="42.5528183" lon="2.7504799">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen dit le Cabana del Moro"/>
+  </node>
+  <area id="3600023823">
+    <tag k="addr:postcode" v="66300"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Llauro"/>
+    <tag k="population" v="317"/>
+    <tag k="ref:INSEE" v="66099"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1369316"/>
+    <tag k="wikipedia" v="fr:Llauro"/>
+  </area>
+  <node id="6791487176" lat="42.4961090" lon="2.8411100">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen des Saleres"/>
+  </node>
+  <area id="3602768133">
+    <tag k="addr:postcode" v="66480"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Les Cluses"/>
+    <tag k="name:ca" v="les Cluses"/>
+    <tag k="name:fr" v="Les Cluses"/>
+    <tag k="name:oc" v="Les Cluses"/>
+    <tag k="old_name:fr" v="Écluse"/>
+    <tag k="population" v="242"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66063"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q730422"/>
+    <tag k="wikipedia" v="fr:Les Cluses"/>
+  </area>
+  <node id="6791473381" lat="42.5067291" lon="2.8603799">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la creu del Senyal"/>
+  </node>
+  <area id="3600018476">
+    <tag k="addr:postcode" v="66160"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Le Boulou"/>
+    <tag k="name:ca" v="El Voló"/>
+    <tag k="name:fr" v="Le Boulou"/>
+    <tag k="name:oc" v="El Voló"/>
+    <tag k="population" v="5514"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:FR:SIREN" v="216600247"/>
+    <tag k="ref:INSEE" v="66024"/>
+    <tag k="source:addr:postcode" v="source of postcode is from osm nodes"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q8672"/>
+    <tag k="wikipedia" v="fr:Le Boulou"/>
+  </area>
+  <node id="6791490781" lat="42.4851685" lon="2.8859501">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen La Balma de Na Cristina"/>
+  </node>
+  <area id="3602768132">
+    <tag k="addr:postcode" v="66480"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="L'Albère"/>
+    <tag k="name:ca" v="L'Albera"/>
+    <tag k="name:oc" v="L'Albera"/>
+    <tag k="population" v="80"/>
+    <tag k="ref:INSEE" v="66001"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1093965"/>
+    <tag k="wikipedia" v="fr:L'Albère"/>
+  </area>
+  <node id="6791509227" lat="42.5311317" lon="2.8847799">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen d'el Quadro"/>
+  </node>
+  <area id="3602548784">
+    <tag k="addr:postcode" v="66740"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Montesquieu-des-Albères"/>
+    <tag k="name:ca" v="Montesquiu d'Albera"/>
+    <tag k="name:oc" v="Montesquiu d'Albera"/>
+    <tag k="population" v="1224"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66115"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q8997"/>
+    <tag k="wikipedia" v="fr:Montesquieu-des-Albères"/>
+  </area>
+  <node id="6791469753" lat="42.5900803" lon="2.5780499">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen dit le Roc de l'Amorriador"/>
+  </node>
+  <area id="3602862650">
+    <tag k="addr:postcode" v="66320"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Glorianes"/>
+    <tag k="population" v="25"/>
+    <tag k="ref:INSEE" v="66086"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q597816"/>
+    <tag k="wikipedia" v="fr:Glorianes"/>
+  </area>
+  <node id="6791495855" lat="42.6304817" lon="2.6057937">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Coll de la Llosa"/>
+  </node>
+  <area id="3601918771">
+    <tag k="addr:postcode" v="66130"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Saint-Michel-de-Llotes"/>
+    <tag k="name:ca" v="Sant Miquel de Llotes"/>
+    <tag k="population" v="348"/>
+    <tag k="ref:INSEE" v="66185"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q197904"/>
+    <tag k="wikipedia" v="fr:Saint-Michel-de-Llotes"/>
+  </area>
+  <node id="6791513217" lat="42.6793785" lon="2.5366499">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Serrat Blanc"/>
+  </node>
+  <area id="3601919494">
+    <tag k="addr:postcode" v="66320"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Rodès"/>
+    <tag k="name:ca" v="Rodés"/>
+    <tag k="population" v="619"/>
+    <tag k="ref:INSEE" v="66165"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q199706"/>
+    <tag k="wikipedia" v="fr:Rodès"/>
+  </area>
+  <node id="6791513543" lat="42.6447601" lon="2.6076796">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Camp Gran II"/>
+  </node>
+  <area id="3601919385">
+    <tag k="addr:postcode" v="66130"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Bouleternère"/>
+    <tag k="name:ca" v="Bulaternera"/>
+    <tag k="population" v="935"/>
+    <tag k="ref:INSEE" v="66023"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q189957"/>
+    <tag k="wikipedia" v="fr:Bouleternère"/>
+  </area>
+  <node id="6791495571" lat="42.6422691" lon="2.6113300">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen des Mouillières ou du Camp Gran I"/>
+  </node>
+  <area id="3601918771">
+    <tag k="addr:postcode" v="66130"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Saint-Michel-de-Llotes"/>
+    <tag k="name:ca" v="Sant Miquel de Llotes"/>
+    <tag k="population" v="348"/>
+    <tag k="ref:INSEE" v="66185"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q197904"/>
+    <tag k="wikipedia" v="fr:Saint-Michel-de-Llotes"/>
+  </area>
+  <node id="6791469754" lat="42.6524048" lon="2.6099863">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Valltorta"/>
+  </node>
+  <area id="3601918771">
+    <tag k="addr:postcode" v="66130"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Saint-Michel-de-Llotes"/>
+    <tag k="name:ca" v="Sant Miquel de Llotes"/>
+    <tag k="population" v="348"/>
+    <tag k="ref:INSEE" v="66185"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q197904"/>
+    <tag k="wikipedia" v="fr:Saint-Michel-de-Llotes"/>
+  </area>
+  <node id="6791512031" lat="42.6320405" lon="2.6404508">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen d'A Fourna ou du Puig del Fornas"/>
+  </node>
+  <area id="3600024858">
+    <tag k="addr:postcode" v="66300"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Caixas"/>
+    <tag k="name:ca" v="Queixàs"/>
+    <tag k="population" v="142"/>
+    <tag k="ref:INSEE" v="66029"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1071950"/>
+    <tag k="wikipedia" v="fr:Caixas"/>
+  </area>
+  <node id="6791493680" lat="42.6342177" lon="2.6436346">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la Creu de Falibe ou de La Creu de La Llosa"/>
+  </node>
+  <area id="3600024858">
+    <tag k="addr:postcode" v="66300"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Caixas"/>
+    <tag k="name:ca" v="Queixàs"/>
+    <tag k="population" v="142"/>
+    <tag k="ref:INSEE" v="66029"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1071950"/>
+    <tag k="wikipedia" v="fr:Caixas"/>
+  </area>
+  <node id="6791493852" lat="42.6119145" lon="2.6940078">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Serrat d'en Gely ou du Roc del Llamp"/>
+  </node>
+  <area id="3600024457">
+    <tag k="addr:postcode" v="66300"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Castelnou"/>
+    <tag k="name:ca" v="Castellnou"/>
+    <tag k="population" v="315"/>
+    <tag k="ref:INSEE" v="66044"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q191094"/>
+    <tag k="wikipedia" v="fr:Castelnou"/>
+  </area>
+  <node id="6791455366" lat="42.6324883" lon="2.6801658">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen dit Arques del Coll de Maure"/>
+  </node>
+  <area id="3600024940">
+    <tag k="addr:postcode" v="66300"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Camélas"/>
+    <tag k="name:ca" v="Cameles"/>
+    <tag k="population" v="464"/>
+    <tag k="ref:INSEE" v="66033"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q188282"/>
+    <tag k="wikipedia" v="fr:Camélas"/>
+  </area>
+  <node id="6791473425" lat="42.6428413" lon="2.6385901">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Mas Payrot (B) ou de Los Masos II"/>
+  </node>
+  <area id="3601918771">
+    <tag k="addr:postcode" v="66130"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Saint-Michel-de-Llotes"/>
+    <tag k="name:ca" v="Sant Miquel de Llotes"/>
+    <tag k="population" v="348"/>
+    <tag k="ref:INSEE" v="66185"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q197904"/>
+    <tag k="wikipedia" v="fr:Saint-Michel-de-Llotes"/>
+  </area>
+  <node id="6791501105" lat="42.6425781" lon="2.6398699">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Mas Payrot (A) ou de Los Masos I"/>
+  </node>
+  <area id="3601918771">
+    <tag k="addr:postcode" v="66130"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Saint-Michel-de-Llotes"/>
+    <tag k="name:ca" v="Sant Miquel de Llotes"/>
+    <tag k="population" v="348"/>
+    <tag k="ref:INSEE" v="66185"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q197904"/>
+    <tag k="wikipedia" v="fr:Saint-Michel-de-Llotes"/>
+  </area>
+  <node id="6680227484" lat="42.7126694" lon="2.5815599">
+    <tag k="description" v="ruiné"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la Llause (ruiné)"/>
+  </node>
+  <area id="3601919933">
+    <tag k="addr:postcode" v="66130"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Montalba-le-Château"/>
+    <tag k="name:ca" v="Montalban lo Castèl"/>
+    <tag k="name:oc" v="Montalban del Castèl"/>
+    <tag k="population" v="149"/>
+    <tag k="ref:INSEE" v="66111"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1093217"/>
+    <tag k="wikipedia" v="fr:Montalba-le-Château"/>
+  </area>
+  <node id="6791481973" lat="42.7126694" lon="2.5815599">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la Llause (ruiné )"/>
+  </node>
+  <area id="3601919933">
+    <tag k="addr:postcode" v="66130"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Montalba-le-Château"/>
+    <tag k="name:ca" v="Montalban lo Castèl"/>
+    <tag k="name:oc" v="Montalban del Castèl"/>
+    <tag k="population" v="149"/>
+    <tag k="ref:INSEE" v="66111"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1093217"/>
+    <tag k="wikipedia" v="fr:Montalba-le-Château"/>
+  </area>
+  <node id="6791493853" lat="42.7290611" lon="2.6071899">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Moulin à Vent (B)"/>
+  </node>
+  <area id="3601239462">
+    <tag k="addr:postcode" v="66720"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Bélesta"/>
+    <tag k="name:oc" v="Belhestar de la Frontièra"/>
+    <tag k="population" v="221"/>
+    <tag k="ref:INSEE" v="66019"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1110211"/>
+    <tag k="wikipedia" v="fr:Bélesta (Pyrénées-Orientales)"/>
+  </area>
+  <node id="6680210722" lat="42.7488433" lon="2.5204190">
+    <tag k="description" v="ou du Camp del Prat"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen Las Apostados"/>
+  </node>
+  <area id="3602816422">
+    <tag k="addr:postcode" v="66220"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Trilla"/>
+    <tag k="name:oc" v="Trilhan"/>
+    <tag k="population" v="74"/>
+    <tag k="ref:INSEE" v="66216"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q190062"/>
+    <tag k="wikipedia" v="fr:Trilla"/>
+  </area>
+  <node id="6680226474" lat="42.7487488" lon="2.5312800">
+    <tag k="description" v="ou des Taupels"/>
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen Las Colombinos"/>
+  </node>
+  <area id="3602816422">
+    <tag k="addr:postcode" v="66220"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Trilla"/>
+    <tag k="name:oc" v="Trilhan"/>
+    <tag k="population" v="74"/>
+    <tag k="ref:INSEE" v="66216"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q190062"/>
+    <tag k="wikipedia" v="fr:Trilla"/>
+  </area>
+  <node id="6791506671" lat="42.7257805" lon="2.6544001">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Caladroy"/>
+  </node>
+  <area id="3601239462">
+    <tag k="addr:postcode" v="66720"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Bélesta"/>
+    <tag k="name:oc" v="Belhestar de la Frontièra"/>
+    <tag k="population" v="221"/>
+    <tag k="ref:INSEE" v="66019"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1110211"/>
+    <tag k="wikipedia" v="fr:Bélesta (Pyrénées-Orientales)"/>
+  </area>
+  <node id="6791500450" lat="42.7314796" lon="2.6557801">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Caladroy (B) (détruit)"/>
+  </node>
+  <area id="3601239462">
+    <tag k="addr:postcode" v="66720"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Bélesta"/>
+    <tag k="name:oc" v="Belhestar de la Frontièra"/>
+    <tag k="population" v="221"/>
+    <tag k="ref:INSEE" v="66019"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1110211"/>
+    <tag k="wikipedia" v="fr:Bélesta (Pyrénées-Orientales)"/>
+  </area>
+  <node id="6791490782" lat="42.4606094" lon="3.0547500">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen dit la Cova dels Alarbs"/>
+  </node>
+  <area id="3600018391">
+    <tag k="addr:postcode" v="66650"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Banyuls-sur-Mer"/>
+    <tag k="name:ca" v="Banyuls de la Marenda"/>
+    <tag k="name:fr" v="Banyuls-sur-Mer"/>
+    <tag k="population" v="4761"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:FR:SIREN" v="216600163"/>
+    <tag k="ref:INSEE" v="66016"/>
+    <tag k="source" v="Cadastre 25-06-2008"/>
+    <tag k="source:addr:postcode" v="source of postcode is from osm nodes"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q6753"/>
+    <tag k="wikipedia" v="fr:Banyuls-sur-Mer"/>
+  </area>
+  <node id="6791495092" lat="42.4350700" lon="3.1297300">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Col de la Farella"/>
+  </node>
+  <area id="3600018375">
+    <tag k="addr:postcode" v="66290"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Cerbère"/>
+    <tag k="name:ca" v="Cervera de la Marenda"/>
+    <tag k="name:fr" v="Cerbère"/>
+    <tag k="population" v="1355"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66048"/>
+    <tag k="source" v="Cadastre 25-06-2008"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q6667"/>
+    <tag k="wikipedia" v="fr:Cerbère (Pyrénées-Orientales)"/>
+  </area>
+  <node id="6791505034" lat="42.4466171" lon="3.1231942">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen Coll de Les Portes"/>
+  </node>
+  <area id="3600018375">
+    <tag k="addr:postcode" v="66290"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Cerbère"/>
+    <tag k="name:ca" v="Cervera de la Marenda"/>
+    <tag k="name:fr" v="Cerbère"/>
+    <tag k="population" v="1355"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66048"/>
+    <tag k="source" v="Cadastre 25-06-2008"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q6667"/>
+    <tag k="wikipedia" v="fr:Cerbère (Pyrénées-Orientales)"/>
+  </area>
+  <node id="6791494132" lat="42.4518013" lon="3.1433799">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Coma Estapera"/>
+  </node>
+  <area id="3600018375">
+    <tag k="addr:postcode" v="66290"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Cerbère"/>
+    <tag k="name:ca" v="Cervera de la Marenda"/>
+    <tag k="name:fr" v="Cerbère"/>
+    <tag k="population" v="1355"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66048"/>
+    <tag k="source" v="Cadastre 25-06-2008"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q6667"/>
+    <tag k="wikipedia" v="fr:Cerbère (Pyrénées-Orientales)"/>
+  </area>
+  <node id="6791477828" lat="42.4583511" lon="3.1363699">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen du Col de la Creu"/>
+  </node>
+  <area id="3600018391">
+    <tag k="addr:postcode" v="66650"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Banyuls-sur-Mer"/>
+    <tag k="name:ca" v="Banyuls de la Marenda"/>
+    <tag k="name:fr" v="Banyuls-sur-Mer"/>
+    <tag k="population" v="4761"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:FR:SIREN" v="216600163"/>
+    <tag k="ref:INSEE" v="66016"/>
+    <tag k="source" v="Cadastre 25-06-2008"/>
+    <tag k="source:addr:postcode" v="source of postcode is from osm nodes"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q6753"/>
+    <tag k="wikipedia" v="fr:Banyuls-sur-Mer"/>
+  </area>
+  <node id="6791502487" lat="42.5009689" lon="2.9395001">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la Balma del Moro"/>
+  </node>
+  <area id="3600018475">
+    <tag k="addr:postcode" v="66740"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Laroque-des-Albères"/>
+    <tag k="name:ca" v="La Roca d’Alberes"/>
+    <tag k="name:oc" v="La Roca d'Albera"/>
+    <tag k="population" v="2112"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:INSEE" v="66093"/>
+    <tag k="source:addr:postcode" v="source of postcode is from galichon.com/INSEE"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q8895"/>
+    <tag k="wikipedia" v="fr:Laroque-des-Albères"/>
+  </area>
+  <node id="6791510534" lat="42.5191689" lon="3.0263901">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Sant Père dels Forquets"/>
+  </node>
+  <area id="3600018416">
+    <tag k="addr:postcode" v="66700"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Argelès-sur-Mer"/>
+    <tag k="name:ca" v="Argelers"/>
+    <tag k="name:fr" v="Argelès-sur-Mer"/>
+    <tag k="name:oc" v="Argelers"/>
+    <tag k="population" v="10383"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:FR:SIREN" v="216600080"/>
+    <tag k="ref:INSEE" v="66008"/>
+    <tag k="source:addr:postcode" v="source of postcode is from osm nodes"/>
+    <tag k="source:imagery" v="CNES/SPOT"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q644728"/>
+    <tag k="wikipedia" v="fr:Argelès-sur-Mer"/>
+  </area>
+  <node id="6791506696" lat="42.5211182" lon="3.0329700">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen Els Collets de Cotlliure"/>
+  </node>
+  <area id="3600018416">
+    <tag k="addr:postcode" v="66700"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Argelès-sur-Mer"/>
+    <tag k="name:ca" v="Argelers"/>
+    <tag k="name:fr" v="Argelès-sur-Mer"/>
+    <tag k="name:oc" v="Argelers"/>
+    <tag k="population" v="10383"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:FR:SIREN" v="216600080"/>
+    <tag k="ref:INSEE" v="66008"/>
+    <tag k="source:addr:postcode" v="source of postcode is from osm nodes"/>
+    <tag k="source:imagery" v="CNES/SPOT"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q644728"/>
+    <tag k="wikipedia" v="fr:Argelès-sur-Mer"/>
+  </area>
+  <node id="6791512604" lat="42.5253296" lon="3.0348499">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de la Cova de l'Alarb"/>
+  </node>
+  <area id="3600018416">
+    <tag k="addr:postcode" v="66700"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Argelès-sur-Mer"/>
+    <tag k="name:ca" v="Argelers"/>
+    <tag k="name:fr" v="Argelès-sur-Mer"/>
+    <tag k="name:oc" v="Argelers"/>
+    <tag k="population" v="10383"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:FR:SIREN" v="216600080"/>
+    <tag k="ref:INSEE" v="66008"/>
+    <tag k="source:addr:postcode" v="source of postcode is from osm nodes"/>
+    <tag k="source:imagery" v="CNES/SPOT"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q644728"/>
+    <tag k="wikipedia" v="fr:Argelès-sur-Mer"/>
+  </area>
+  <node id="6791455365" lat="42.5042801" lon="3.0573699">
+    <tag k="historic" v="archaeological_site"/>
+    <tag k="name" v="Dolmen de Rimbau"/>
+  </node>
+  <area id="3600018409">
+    <tag k="addr:postcode" v="66190"/>
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="name" v="Collioure"/>
+    <tag k="name:ca" v="Cotlliure"/>
+    <tag k="name:fr" v="Collioure"/>
+    <tag k="name:oc" v="Cotlliure"/>
+    <tag k="population" v="2427"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="ref:FR:SIREN" v="216600536"/>
+    <tag k="ref:INSEE" v="66053"/>
+    <tag k="source:addr:postcode" v="source of postcode is from osm nodes"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2020"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q254829"/>
+    <tag k="wikipedia" v="fr:Collioure"/>
+  </area>
+
+</osm>
